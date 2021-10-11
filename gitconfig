@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = marwa.9101@hotmail.com
+	name = marwa homsi
